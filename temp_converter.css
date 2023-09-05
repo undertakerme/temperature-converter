@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    background-color: rgb(202, 167, 42);
+    
+  } 
+  h3{
+    color: red;
+    position: absolute;
+    left: 32%;
+    font-size: 50px;
+    bottom : 400px;
+    border: groove;
+    border-width: 5px;
+  }
+ 
+    
+  h2{
+    position: absolute;
+    left: 35%;
+    
+    bottom: 300px;
+  }
